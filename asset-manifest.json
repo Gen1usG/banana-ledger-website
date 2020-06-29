@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/banana-ledger-website/static/css/main.78cf82c8.chunk.css",
+    "main.js": "/banana-ledger-website/static/js/main.3097db7d.chunk.js",
+    "main.js.map": "/banana-ledger-website/static/js/main.3097db7d.chunk.js.map",
+    "runtime-main.js": "/banana-ledger-website/static/js/runtime-main.23384a82.js",
+    "runtime-main.js.map": "/banana-ledger-website/static/js/runtime-main.23384a82.js.map",
+    "static/css/2.0fb3545e.chunk.css": "/banana-ledger-website/static/css/2.0fb3545e.chunk.css",
+    "static/js/2.b3be4281.chunk.js": "/banana-ledger-website/static/js/2.b3be4281.chunk.js",
+    "static/js/2.b3be4281.chunk.js.map": "/banana-ledger-website/static/js/2.b3be4281.chunk.js.map",
+    "index.html": "/banana-ledger-website/index.html",
+    "precache-manifest.4ab67bf07843db7d94d7c2c3190cd92b.js": "/banana-ledger-website/precache-manifest.4ab67bf07843db7d94d7c2c3190cd92b.js",
+    "service-worker.js": "/banana-ledger-website/service-worker.js",
+    "static/css/2.0fb3545e.chunk.css.map": "/banana-ledger-website/static/css/2.0fb3545e.chunk.css.map",
+    "static/css/main.78cf82c8.chunk.css.map": "/banana-ledger-website/static/css/main.78cf82c8.chunk.css.map",
+    "static/js/2.b3be4281.chunk.js.LICENSE.txt": "/banana-ledger-website/static/js/2.b3be4281.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.23384a82.js",
+    "static/css/2.0fb3545e.chunk.css",
+    "static/js/2.b3be4281.chunk.js",
+    "static/css/main.78cf82c8.chunk.css",
+    "static/js/main.3097db7d.chunk.js"
+  ]
+}
